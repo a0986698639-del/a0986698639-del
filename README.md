@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 我是蕭湘云 👋
 
-<!--
-**a0986698639-del/a0986698639-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是中原大學的學生,目前正在學習計算機概論。
 
-Here are some ideas to get you started:
+##關於我
+系级:[智運](https://icbd.cycu.edu.tw/)一甲
+・正在學習.github、python
+ㆍ我的興趣:打籃球
+ㆍ這學期的目標:不要被當
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##我的作品
+之後會把課堂作品放在github。
+
+##聯絡方式
+可以透過github與我交流!
